@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![MATLAB](https://img.shields.io/badge/MATLAB-R2020a%2B-orange.svg)](https://www.mathworks.com/products/matlab.html)
 [![Version](https://img.shields.io/badge/version-v2.0-blue.svg)](../../releases)
-[![Stars](https://img.shields.io/github/stars/hwkiller-0314/city-comparision-model?style=social)](../../stargazers)
+[![Stars](https://img.shields.io/github/stars/hwkiller-0314/city-comparison-model?style=social)](../../stargazers)
 
 > 用一份公开数据，把两座城市放在同一把尺子上量一量。
 
@@ -118,7 +118,7 @@ city_pair_model_v2('通用权重v2.csv', '数据表.csv', '杭州', '成都', '�
   title   = {城市综合实力比较模型 v2},
   author  = {hwkiller-0314},
   year    = {2026},
-  url     = {https://github.com/hwkiller-0314/city-comparision-model}
+  url     = {https://github.com/hwkiller-0314/city-comparison-model}
 }
 ```
 

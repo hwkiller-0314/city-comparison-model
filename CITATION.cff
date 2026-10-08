@@ -10,7 +10,7 @@ authors:
 version: "2.0.0"
 date-released: "2026-10-08"
 license: MIT
-repository-code: "https://github.com/hwkiller-0314/city-comparision-model"
+repository-code: "https://github.com/hwkiller-0314/city-comparison-model"
 keywords:
   - 城市对比
   - 城市综合实力
@@ -26,4 +26,4 @@ preferred-citation:
     - family-names: "hwkiller"
       given-names: "0314"
   year: 2026
-  url: "https://github.com/hwkiller-0314/city-comparision-model"
+  url: "https://github.com/hwkiller-0314/city-comparison-model"
